@@ -22,10 +22,6 @@ Install mysql (version 5X supported) and create a schema called unicentaopos
 ## Build and Run the appication
 To get started, simply clone the repository and build the artifacts
 
-https://github.com/coder1236/Maven-project/blob/master/Sales%20Page.png
-
-https://github.com/coder1236/Maven-project/blob/master/Edit%20Sales.png
-
 ### build the artifacts
 ```
 mvn clean assemble
@@ -34,7 +30,9 @@ mvn clean assemble
 ```
 java -jar ./target/unicentaopos
 ```
+https://github.com/coder1236/Maven-project/blob/master/Sales%20Page.png
 
+https://github.com/coder1236/Maven-project/blob/master/Edit%20Sales.png
 
 
 
